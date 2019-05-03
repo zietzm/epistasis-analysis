@@ -11,6 +11,7 @@ dependencies:
   - conda-forge::pandas=0.24.2
   - conda-forge::plotnine=0.5.1
   - conda-forge::python=3.7.3
+  - conda-forge::pyvcf=0.6.8
   - conda-forge::requests=2.21.0
   - conda-forge::scikit-learn=0.20.3
   - conda-forge::scipy=1.2.1
